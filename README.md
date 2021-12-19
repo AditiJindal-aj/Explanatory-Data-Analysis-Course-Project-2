@@ -204,4 +204,4 @@ Which city has seen greater changes over time in motor vehicle emissions?
 
 Los Angeles County has seen the greatest changes over time in motor vehicle emission
 
-plot6.png
+plot of plot6.png
