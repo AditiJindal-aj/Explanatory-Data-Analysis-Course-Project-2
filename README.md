@@ -202,6 +202,6 @@ ggp <- ggplot(bothNEI, aes(x=factor(year), y=Emissions, fill=city)) +
 print(ggp)
 Which city has seen greater changes over time in motor vehicle emissions?
 
-Los Angeles County has seen the greatest changes over time in motor vehicle emissions.
+Los Angeles County has seen the greatest changes over time in motor vehicle emission
 
-plot of plot6.png
+plot6.png
